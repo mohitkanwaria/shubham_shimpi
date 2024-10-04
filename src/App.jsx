@@ -4,7 +4,11 @@ function App() {
 
   return (
     <>
-    <h1>hello world</h1>
+      <div>
+        <h1>hello world</h1>
+        <h1>hello 1</h1>
+
+      </div>
     </>
   )
 }
